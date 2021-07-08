@@ -1,0 +1,25 @@
+body{
+    background-image: url(./img/background.jpg);
+}
+
+h1{
+    color: aliceblue;
+    text-align: center;
+    padding: 3rem;
+}
+
+h2{
+    color: aliceblue;
+    text-align: center;
+    padding-bottom: 1rem ;
+}
+
+.btn-group, .btn-group-vertical{
+    padding-top: 1rem;
+    padding-left: 32rem;
+} 
+
+.res{
+    color: bisque;
+    padding-top: 0.8rem;
+}
